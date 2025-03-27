@@ -1,0 +1,5 @@
+streamlit
+cloudinary
+requests
+pillow
+python-dotenv
